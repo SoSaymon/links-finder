@@ -17,7 +17,7 @@ Links Finder requires Python 3 to run.
 
 Clone the repository:
 ```
-git clone https://github.com/[YOUR_GITHUB_NAME]/Links-Finder.git
+git clone https://github.com/SoSaymon/links-finder.git
 ```
 ## Usage
 Run the program:
